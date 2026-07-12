@@ -89,6 +89,8 @@ apis:
       - type: Documentation
         url: https://www.dtra.mil/FOIA
 common:
+  - type: DomainSecurity
+    url: security/defense-threat-reduction-agency-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/defense-threat-reduction-agency
   - type: Website

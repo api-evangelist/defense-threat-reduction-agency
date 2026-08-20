@@ -37,6 +37,15 @@ tags:
   - Defense
   - Department of Defense
   - DTRA
+  - Federal-Government
+  - National Security
+  - Threat Reduction
+tags_raw:
+  - CBRNE
+  - Counter-WMD
+  - Defense
+  - Department of Defense
+  - DTRA
   - Federal Government
   - National Security
   - Threat Reduction
@@ -51,6 +60,9 @@ apis:
       to mission-area programs. The site does not expose a developer API.
     humanURL: https://www.dtra.mil
     tags:
+      - Federal-Government
+      - Website
+    tags_raw:
       - Federal Government
       - Website
     properties:

@@ -13,6 +13,8 @@ description: >-
   a general-purpose developer API; partner systems interact through
   controlled, government-to-government channels.
 url: https://raw.githubusercontent.com/api-evangelist/defense-threat-reduction-agency/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
 type: Index
 deliveryModel:
   model: unknown

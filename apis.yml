@@ -50,7 +50,7 @@ tags:
   - Defense
   - Department of Defense
   - DTRA
-  - Federal-Government
+  - Federal Government
   - National Security
   - Threat Reduction
 tags_raw:
@@ -62,6 +62,7 @@ tags_raw:
   - Federal Government
   - National Security
   - Threat Reduction
+  - Federal-Government
 created: '2024-12-03'
 modified: '2026-04-28'
 apis:
@@ -73,11 +74,12 @@ apis:
       to mission-area programs. The site does not expose a developer API.
     humanURL: https://www.dtra.mil
     tags:
-      - Federal-Government
+      - Federal Government
       - Websites
     tags_raw:
       - Federal Government
       - Website
+      - Federal-Government
     properties:
       - type: Documentation
         url: https://www.dtra.mil

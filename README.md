@@ -1,4 +1,4 @@
-# Defense Threat Reduction Agency (defense-threat-reduction-agency)
+# Defense Threat Reduction Agency
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,58 +66,103 @@
 
 The Defense Threat Reduction Agency (DTRA) is the U.S. Department of Defense combat support agency that counters and deters weapons of mass destruction (WMD) and improvised threats. DTRA leads the chemical, biological, radiological, nuclear, and high-yield explosive (CBRNE) mission for DoD and supports the Cooperative Threat Reduction (CTR) Program with partner nations. Public-facing surfaces include the DTRA website, the DTRA Information Analysis Center (DTRIAC) for technical reports, the DTRA Mission Network public information, and small-business and broad-agency-announcement procurement portals. DTRA does not publish a general-purpose developer API; partner systems interact through controlled, government-to-government channels.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/defense-threat-reduction-agency/refs/heads/main/apis.yml)
+**Areas:** CBRNE · Counter-WMD · Defense · Department of Defense · DTRA · Federal Government · National Security · Threat Reduction
 
-## Scope
+## Defense Threat Reduction Agency on APIs.io
 
-- **Type:** Index
-- **x-type:** government
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Defense Threat Reduction Agency is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/defense-threat-reduction-agency/](https://apis.io/providers/defense-threat-reduction-agency/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (4)
 
-- CBRNE, Counter-WMD, Defense, Department of Defense, DTRA, Federal Government, National Security, Threat Reduction
+- [DTRA Website](https://apis.io/apis/defense-threat-reduction-agency/defense-threat-reduction-agency-website/) — Public-facing website of the Defense Threat Reduction Agency providing organizational information, leadership, news, and links to mission-area programs. The…
+- [DTRA Information Analysis Center (DTRIAC)](https://apis.io/apis/defense-threat-reduction-agency/defense-threat-reduction-agency-dtriac/) — The DTRA Information Analysis Center provides scientific and technical information services to the Counter-WMD community, including a managed library of…
+- [DTRA Doing Business](https://apis.io/apis/defense-threat-reduction-agency/defense-threat-reduction-agency-business/) — Procurement and partnership portal that publishes solicitations, Broad Agency Announcements, small-business opportunities, and points of contact for working…
+- [DTRA FOIA Reading Room](https://apis.io/apis/defense-threat-reduction-agency/defense-threat-reduction-agency-foia/) — Online portal that publishes records released under the Freedom of Information Act and frequently requested documents.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### DTRA Website
+Authentication, trust centre, and vulnerability disclosure.
 
-Public-facing website of the Defense Threat Reduction Agency providing organizational information, leadership, news, and links to mission-area programs.
+- [Defense Threat Reduction Agency Domain Security](https://apis.io/security/defense-threat-reduction-agency/defense-threat-reduction-agency-domain-security/)
 
-- **Human URL:** https://www.dtra.mil
+#### Plans and pricing (1)
 
-### DTRA Information Analysis Center (DTRIAC)
+Published plans, tiers and prices.
 
-The DTRA Information Analysis Center provides scientific and technical information services to the Counter-WMD community, including a managed library of technical reports and analysis products.
+- [Defense Threat Reduction Agency Plans Pricing](https://apis.io/plans/defense-threat-reduction-agency/defense-threat-reduction-agency-plans-pricing/)
 
-- **Human URL:** https://www.dtra.mil/Mission/Cooperative-Threat-Reduction
+#### Rate limits (1)
 
-### DTRA Doing Business
+Published request limits.
 
-Procurement and partnership portal that publishes solicitations, Broad Agency Announcements, small-business opportunities, and points of contact for working with DTRA.
+- [Defense Threat Reduction Agency Rate Limits](https://apis.io/rate-limits/defense-threat-reduction-agency/defense-threat-reduction-agency-rate-limits/)
 
-- **Human URL:** https://www.dtra.mil/Doing-Business-With-DTRA
+#### FinOps (1)
 
-### DTRA FOIA Reading Room
+What the API costs to run, by operation.
 
-Online portal that publishes records released under the Freedom of Information Act and frequently requested documents.
+- [Defense Threat Reduction Agency Finops](https://apis.io/finops/defense-threat-reduction-agency/defense-threat-reduction-agency-finops/)
 
-- **Human URL:** https://www.dtra.mil/FOIA
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.dtra.mil)
-- [News](https://www.dtra.mil/News)
-- [Contact Us](https://www.dtra.mil/Contact-Us)
-- [Privacy Policy](https://www.dtra.mil/Privacy-and-Security)
-- [FOIA](https://www.dtra.mil/FOIA)
+- [Privacy policy](https://www.dtra.mil/Privacy-and-Security)
 
-## Maintainers
+## API Evangelist rating
 
-- **Kin Lane** - kin@apievangelist.com
+**Kin Score 12.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 63.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 18.4 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/defense-threat-reduction-agency/](https://apis.io/providers/defense-threat-reduction-agency/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Defense Threat Reduction Agency: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/defense-threat-reduction-agency/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
